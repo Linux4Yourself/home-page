@@ -1,17 +1,17 @@
-html body main nav {
+nav {
   background: #3CA6DE;
 }
 
-html body main nav div a {
+nav div a {
   text-decoration: none;
   padding: 1rem;
 }
 
-html body main nav div a i {
+nav div a i {
   font-size: 2rem;
 }
 
-html body .page-item.page-main {
+.page-item.page-main {
   background: #38D5F9;
 }
 

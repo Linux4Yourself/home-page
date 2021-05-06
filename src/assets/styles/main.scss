@@ -1,32 +1,26 @@
 $color-bg: #38D5F9;
 $color-secondary: #3CA6DE;
 
-html {
-	body {
-		main {
-			nav {
-				background: $color-secondary;
+nav {
+	background: $color-secondary;
 
-				div {
-					a {
-						text-decoration: none;
-						padding: 1rem;
-						i {
-							font-size: 2rem;
-						}
-					}
-				}
-			}
-		}
+	div {
+		a {
+			text-decoration: none;
+			padding: 1rem;
 
-		.page-item {
-			&.page-main {
-				background: $color-bg;
+			i {
+				font-size: 2rem;
 			}
 		}
 	}
 }
 
+.page-item {
+	&.page-main {
+		background: $color-bg;
+	}
+}
 
 .lead {
 	font-weight: 400;
