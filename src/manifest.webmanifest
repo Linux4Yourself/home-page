@@ -1,0 +1,31 @@
+{
+    "theme_color": "#3CA6DE",
+    "background_color": "#38D5F9",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Linux4Yourself",
+    "short_name": "Linux4Yourself",
+    "description": "Книга обеспечит Вас необходимыми знаниями чтобы создать свою собственную Linux систему с самого начала.",
+    "icons": [{
+            "src": "assets/i/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/i/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/i/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/i/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
