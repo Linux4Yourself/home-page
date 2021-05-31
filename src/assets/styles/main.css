@@ -5,10 +5,12 @@ nav {
 nav div a {
   text-decoration: none;
   padding: 1rem;
+  font-size: 1.2rem;
+  margin: 0 .6rem;
 }
 
 nav div a i {
-  font-size: 2rem;
+  font-size: 1.7rem;
 }
 
 .page-item.page-main {
