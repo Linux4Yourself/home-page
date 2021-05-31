@@ -9,8 +9,13 @@ nav div a {
   margin: 0 .6rem;
 }
 
+nav div a:hover {
+  text-decoration: underline;
+}
+
 nav div a i {
-  font-size: 1.7rem;
+  font-size: 1.3rem;
+  margin-right: .4rem;
 }
 
 .page-item.page-main {
